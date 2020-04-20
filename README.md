@@ -1,2 +1,3 @@
-# JavaScript-Algorithm
-JavaScript-Algorithm
+# JavaScript
+JavaScript
+
